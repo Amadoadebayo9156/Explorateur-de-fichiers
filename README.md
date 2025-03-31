@@ -5,7 +5,7 @@ ALIDOU Farouk
 KINDJI Auriol
 NOUASSE Mélène
 PHILEMON Bill
-
+ 
 
 Problèmes rencontrés:
 La mise au format des icônes 
